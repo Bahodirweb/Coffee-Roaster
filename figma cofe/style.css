@@ -4,7 +4,6 @@
     font-family: sans-serif;
     box-sizing: border-box;
 }
-
 .main {
     background-image: url(./img/Bitmap.png);
     background-size: cover;
@@ -13,7 +12,6 @@
     border-radius: 10px;
     cursor: pointer;
 }
-
 .main2 {
     background: #06031d;
     border-radius: 10px;
@@ -65,6 +63,7 @@
 .main_about3 {
     border-radius: 10px;
 }
+
 
 /* home */
 
